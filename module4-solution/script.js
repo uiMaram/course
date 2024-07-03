@@ -1,13 +1,13 @@
 var names=new Array();
 names[0]="Yaakov";
-names[1]="Jasmin";
-names[2]="Jefery";
-names[3]="Nour";
-names[4]="Lara";
-names[5]="Dora";
-names[6]="Maram";
-names[7]="Ahmed";
-names[8]="Mae";
+names[1]="John";
+names[2]="Jen";
+names[3]="Jason";
+names[4]="Paul";
+names[5]="Frank";
+names[6]="Larry";
+names[7]="Paula";
+names[8]="Laura";
 names[9]="jim";
 
 
